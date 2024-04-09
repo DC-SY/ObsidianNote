@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "32744a3c0935be74",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4841bd23a038627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94979c9fde10e84",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f903568bad2b7080",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3b48fd63c57a392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24c42bbace3f1179",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac8751a393b14db0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bd563877843d426",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "3a0aa41d084f480f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1f0abfe27a8c0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cefd311254e4aef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffbe014d7a5a4f05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cd1a05b068c9505",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e611eb3c48719cb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e94979c9fde10e84",
+  "lastOpenFiles": [
+    "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
+    "Templater/Templater—开发学习.md",
+    "开发技能学习/编程语言/Python/Python基础入门/Untitled.md",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/04控制循环结构.md",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/03运算符.md",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/02基本数据类型.md",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/01Java语言基础.md",
+    "开发技能学习/编程语言/Java/JavaSE进阶知识/01引用数据类型.md",
+    "开发技能学习/编程语言/Python/Python基础入门/05流程控制语句.md",
+    "开发技能学习/编程语言/Python/Python基础入门/04运算符.md",
+    "开发技能学习/编程语言/Python/Python基础入门/03输入输出函数.md",
+    "开发技能学习/编程语言/Python/Python基础入门/02常用数据类型.md",
+    "开发技能学习/编程语言/Python/Python基础入门/01Python语言认识.md",
+    "开发技能学习/编程语言/Python/Python高级教程/测试.md",
+    "开发技能学习/编程语言/Python/Python高级教程/Untitled.md",
+    "Templater/测试.md",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/Untitled.md",
+    "Templater/01Java语言基础.md",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/测试.md",
+    "Templater/Templater—课程学习.md",
+    "开发技能学习/编程语言/Java/JavaSE进阶知识/ceshi.md",
+    "开发技能学习/编程语言/Java/JavaSE进阶知识/我是.md",
+    "开发技能学习/编程语言/Java/JavaSE进阶知识/未命名.md",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/未命名 1.md",
+    "Templater",
+    "开发技能学习/编程语言/Java/JavaSE基础入门/语言基础.md"
+  ]
+}

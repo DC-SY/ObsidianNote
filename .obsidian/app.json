@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "showInlineTitle": false,
+  "newFileLocation": "current",
+  "showIndentGuide": false,
+  "foldIndent": false
+}

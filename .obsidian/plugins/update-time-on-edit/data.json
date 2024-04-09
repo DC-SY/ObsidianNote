@@ -1,0 +1,17 @@
+{
+  "dateFormat": "yyyy-MM-dd HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "修改时间",
+  "headerCreated": "创建时间",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "Templater"
+  ],
+  "ignoreCreatedFolder": [
+    "Templater"
+  ],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md": "0dab8f936a7d32d733a511662e0cb9377cdf5bba83c3ac8cbd98b2d4d5fc6fe9"
+  }
+}

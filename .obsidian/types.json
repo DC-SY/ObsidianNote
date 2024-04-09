@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "文章概述": "multitext",
+    "文章名称": "text",
+    "关键字": "multitext"
+  }
+}
