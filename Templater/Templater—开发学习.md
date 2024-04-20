@@ -3,7 +3,7 @@
 作者: DC_DC
 关键字:
   - <% tp.system.prompt("请输入文章关键字") %>
-  - <% tp.system.prompt("请输入文章第二个关键字") %>
+  - <% tp.ststem.prompt("请输入文章关键字") %>
 tags:
   - TODO
 ---

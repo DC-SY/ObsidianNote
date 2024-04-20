@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
+                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
+                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
+                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md"
+                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md"
               }
             }
           }
@@ -150,6 +149,7 @@
   "active": "e94979c9fde10e84",
   "lastOpenFiles": [
     "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
+    "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
     "Templater/Templater—开发学习.md",
     "开发技能学习/编程语言/Python/Python基础入门/Untitled.md",
     "开发技能学习/编程语言/Java/JavaSE基础入门/04控制循环结构.md",
