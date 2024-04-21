@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+                "file": "杂记知识库/Anaconda的使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
-                "mode": "preview",
+                "file": "杂记知识库/Anaconda的使用.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.50418853759766
+    "width": 289.50418853759766
   },
   "right": {
     "id": "3a0aa41d084f480f",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+                "file": "杂记知识库/Anaconda的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+                "file": "杂记知识库/Anaconda的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md"
+                "file": "杂记知识库/Anaconda的使用.md"
               }
             }
           }
@@ -168,10 +168,12 @@
   },
   "active": "e94979c9fde10e84",
   "lastOpenFiles": [
-    "开发技能学习/编程语言/01Python/Python基础入门/04Python中的运算符.md",
-    "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
-    "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
     "Templater/Templater—开发学习.md",
+    "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
+    "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+    "开发技能学习/编程语言/01Python/Python基础入门/03输入输出函数.md",
+    "开发技能学习/编程语言/01Python/Python基础入门/04Python中的运算符.md",
+    "杂记知识库/Anaconda的使用.md",
     "开发技能学习/编程语言/Python/Python基础入门/Untitled.md",
     "开发技能学习/编程语言/Java/JavaSE基础入门/04控制循环结构.md",
     "开发技能学习/编程语言/Java/JavaSE基础入门/03运算符.md",
@@ -191,9 +193,6 @@
     "开发技能学习/编程语言/Java/JavaSE基础入门/测试.md",
     "Templater/Templater—课程学习.md",
     "开发技能学习/编程语言/Java/JavaSE进阶知识/ceshi.md",
-    "开发技能学习/编程语言/Java/JavaSE进阶知识/我是.md",
-    "开发技能学习/编程语言/Java/JavaSE进阶知识/未命名.md",
-    "开发技能学习/编程语言/Java/JavaSE基础入门/未命名 1.md",
     "Templater"
   ]
 }

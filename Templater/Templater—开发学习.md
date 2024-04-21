@@ -3,9 +3,8 @@
 作者: DC_DC
 关键字:
   - <% tp.system.prompt("请输入文章关键字") %>
-  - <% tp.ststem.prompt("请输入文章关键字") %>
 tags:
-  - TODO
+  - Editing
 ---
 > 文章前言：
 > - <% tp.system.prompt("请输入文章概述") %>
