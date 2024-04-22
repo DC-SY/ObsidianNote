@@ -6,6 +6,7 @@
       {
         "id": "c4841bd23a038627",
         "type": "tabs",
+        "dimension": 45.163136805953066,
         "children": [
           {
             "id": "e94979c9fde10e84",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+                "file": "杂记知识库/Github专题/README编写格式.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +26,7 @@
       {
         "id": "606bb69b4cfe8d2f",
         "type": "tabs",
+        "dimension": 54.836863194046934,
         "children": [
           {
             "id": "a53a049024746712",
@@ -32,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
-                "mode": "source",
+                "file": "杂记知识库/Github专题/README编写格式.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -89,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.50418853759766
+    "width": 220.50418853759766
   },
   "right": {
     "id": "3a0aa41d084f480f",
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+                "file": "杂记知识库/Github专题/README编写格式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+                "file": "杂记知识库/Github专题/README编写格式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md"
+                "file": "杂记知识库/Github专题/README编写格式.md"
               }
             }
           }
@@ -154,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +170,14 @@
   },
   "active": "e94979c9fde10e84",
   "lastOpenFiles": [
-    "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
-    "杂记知识库/Anaconda的使用.md",
-    "Templater/Templater—开发学习.md",
+    "杂记知识库/Anaconda专题/Anaconda的使用.md",
+    "杂记知识库/Github专题/README编写格式.md",
+    "杂记知识库/Github专题/README编写规范.md",
+    "杂记知识库/Github专题",
+    "杂记知识库/Anaconda专题",
     "开发技能学习/编程语言/01Python/Python基础入门/02基本数据类型.md",
+    "开发技能学习/编程语言/01Python/Python基础入门/01Python语言基础.md",
+    "Templater/Templater—开发学习.md",
     "开发技能学习/编程语言/01Python/Python基础入门/03输入输出函数.md",
     "开发技能学习/编程语言/01Python/Python基础入门/04Python中的运算符.md",
     "开发技能学习/编程语言/Python/Python基础入门/Untitled.md",
@@ -192,7 +198,6 @@
     "Templater/01Java语言基础.md",
     "开发技能学习/编程语言/Java/JavaSE基础入门/测试.md",
     "Templater/Templater—课程学习.md",
-    "开发技能学习/编程语言/Java/JavaSE进阶知识/ceshi.md",
     "Templater"
   ]
 }
