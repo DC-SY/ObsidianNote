@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c4841bd23a038627",
-        "type": "tabs",
-        "dimension": 45.163136805953066,
-        "children": [
-          {
-            "id": "e94979c9fde10e84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "杂记知识库/Github专题/README编写格式.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "57f8e4ec9eedf48f"
-          }
-        ]
-      },
-      {
         "id": "606bb69b4cfe8d2f",
         "type": "tabs",
-        "dimension": 54.836863194046934,
         "children": [
           {
             "id": "a53a049024746712",
@@ -34,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记知识库/Github专题/README编写格式.md",
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "57f8e4ec9eedf48f"
+            }
           }
         ]
       }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂记知识库/Github专题/README编写格式.md",
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂记知识库/Github专题/README编写格式.md",
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记知识库/Github专题/README编写格式.md"
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md"
               }
             }
           }
@@ -168,10 +146,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e94979c9fde10e84",
+  "active": "a53a049024746712",
   "lastOpenFiles": [
-    "杂记知识库/Anaconda专题/Anaconda的使用.md",
     "杂记知识库/Github专题/README编写格式.md",
+    "杂记知识库/Anaconda专题/Anaconda的使用.md",
     "杂记知识库/Github专题/README编写规范.md",
     "杂记知识库/Github专题",
     "杂记知识库/Anaconda专题",
