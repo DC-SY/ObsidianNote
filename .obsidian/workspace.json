@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "606bb69b4cfe8d2f",
+        "id": "f815090ea1803351",
         "type": "tabs",
         "children": [
           {
-            "id": "a53a049024746712",
+            "id": "61ab2cf08666b703",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/数据库设计文档的编写.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "2c2eb8562893c9cc"
-          }
-        ]
-      },
-      {
-        "id": "3579435ef425a79b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c448a6a893cb2777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开发技能学习/数据库/数据库设计/数据库设计文档的编写.md",
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "2c2eb8562893c9cc"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/数据库设计文档的编写.md",
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/数据库设计文档的编写.md",
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/数据库设计文档的编写.md"
+                "file": "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md"
               }
             }
           }
@@ -166,10 +146,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a53a049024746712",
+  "active": "61ab2cf08666b703",
   "lastOpenFiles": [
-    "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
     "开发技能学习/数据库/数据库设计/数据库设计文档的编写.md",
+    "网课笔记/B站青空の霞光全套/SpringCloud/1.微服务基础.md",
     "开发技能学习/数据库/数据库设计",
     "杂记知识库/Github专题/README编写格式.md",
     "杂记知识库/Anaconda专题/Anaconda的使用.md",
