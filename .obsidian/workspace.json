@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md",
+                "file": "杂记知识库/编程知识积累/API和SDK.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md",
+                "file": "杂记知识库/编程知识积累/API和SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md",
+                "file": "杂记知识库/编程知识积累/API和SDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md"
+                "file": "杂记知识库/编程知识积累/API和SDK.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24c42bbace3f1179",
+  "active": "422758d8a3671ff4",
   "lastOpenFiles": [
+    "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md",
+    "杂记知识库/编程知识积累/API和SDK.md",
+    "杂记知识库/编程知识积累",
     "开发技能学习/编程语言/01Python/PythonGUI技术/QT",
     "开发技能学习/编程语言/01Python/PythonGUI技术/QT.md",
     "开发技能学习/编程语言/01Python/PythonGUI技术/TK",
-    "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md",
     "开发技能学习/数据库/数据库设计/数据库设计文档的编写.md",
     "杂记知识库/Anaconda专题/Anaconda的使用.md",
     "杂记知识库/电脑基础专题/电脑操作.md",
