@@ -15,7 +15,7 @@
               "state": {
                 "file": "杂记知识库/编程知识积累/API和SDK.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -146,7 +146,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24c42bbace3f1179",
+  "active": "170ab1f1f82a245f",
   "lastOpenFiles": [
     "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md",
     "杂记知识库/编程知识积累/API和SDK.md",
