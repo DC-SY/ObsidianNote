@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md",
-                "mode": "preview",
-                "source": true
+                "file": "杂记知识库/ECS学习专题/快速入门ECS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md",
+                "file": "杂记知识库/ECS学习专题/快速入门ECS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md",
+                "file": "杂记知识库/ECS学习专题/快速入门ECS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md"
+                "file": "杂记知识库/ECS学习专题/快速入门ECS.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "170ab1f1f82a245f",
   "lastOpenFiles": [
-    "杂记知识库/Github专题/README编写格式.md",
     "杂记知识库/编程知识积累/API和SDK.md",
+    "杂记知识库/ECS学习专题/快速入门ECS.md",
+    "杂记知识库/ECS学习专题",
+    "杂记知识库/Github专题/README编写格式.md",
     "杂记知识库/电脑基础专题/电脑操作.md",
     "开发技能学习/数据库/数据库设计/概念设计&逻辑设计&物理设计.md",
     "杂记知识库/编程知识积累",
@@ -180,7 +182,6 @@
     "开发技能学习/编程语言/Python/Python基础入门/03输入输出函数.md",
     "开发技能学习/编程语言/Python/Python基础入门/02常用数据类型.md",
     "开发技能学习/编程语言/Python/Python基础入门/01Python语言认识.md",
-    "开发技能学习/编程语言/Python/Python高级教程/测试.md",
     "Templater"
   ]
 }
