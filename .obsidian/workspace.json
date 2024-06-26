@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md",
+                "file": "技能考试学习/软考/软件设计师.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md",
+                "file": "技能考试学习/软考/软件设计师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md",
+                "file": "技能考试学习/软考/软件设计师.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记知识库/编程知识积累/API和SDK.md"
+                "file": "技能考试学习/软考/软件设计师.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "170ab1f1f82a245f",
+  "active": "24c42bbace3f1179",
   "lastOpenFiles": [
+    "杂记知识库/编程知识积累/API和SDK.md",
     "杂记知识库/ECS学习专题/快速入门ECS.md",
     "技能考试学习/软考/软件设计师.md",
     "技能考试学习/软考/软件设计师",
-    "杂记知识库/编程知识积累/API和SDK.md",
     "杂记知识库/ECS学习专题",
     "杂记知识库/Github专题/README编写格式.md",
     "杂记知识库/电脑基础专题/电脑操作.md",
